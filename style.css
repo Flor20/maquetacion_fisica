@@ -1,0 +1,44 @@
+.di {
+    background-color: black; 
+    color: white;
+}
+
+.bot {
+    background-color:#F29422; 
+    color: white;
+}
+
+#seltexto {
+    border-color:#F29422;
+    border-radius: 15px;
+}
+
+#seltexto:focus{
+    border-radius: 5px;
+    border-color: rgb(255, 144, 0);
+    box-shadow: 0 1px 1px rgba(229, 103, 23, 0.075)inset, 0 0 8px rgba(255,144,0,0.6);
+    outline: 0 none;
+}
+
+#boton {
+    background-color:#A62424;
+    border-color: rgb(255, 144, 0);
+}
+
+#boton:hover{
+    border-radius: 5px;
+    border-color: rgb(255, 144, 0);
+    box-shadow: 0 1px 1px rgba(229, 103, 23, 0.075)inset, 0 0 8px #A62424;
+    outline: 0 none;
+}
+
+#tarjeta {
+    background-color:#A62424;
+    border-color: rgb(255, 144, 0);
+    box-shadow: 0 1px 1px rgba(229, 103, 23, 0.075)inset, 0 0 8px #A62424;
+    width: 18rem;
+}
+
+#res {
+    border-color: #A62424;
+}
